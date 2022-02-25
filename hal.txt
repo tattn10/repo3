@@ -1,2 +1,3 @@
 ECHO is on.
 and echo is off
+and again on
